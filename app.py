@@ -5,6 +5,7 @@ import pickle
 from gensim.models import Word2Vec
 from sklearn.metrics.pairwise import cosine_similarity
 
+
 # Carica il dataset e il modello pre-addestrato
 @st.cache_data
 def load_data():
