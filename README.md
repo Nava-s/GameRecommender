@@ -19,7 +19,7 @@ This project implements a videogame recommendation system based on **Word2Vec**,
 
 The dataset used in this project is from Kaggle. It contains information about various video games, including their titles and genres. The genres are used as input for creating Word2Vec embeddings, which are then used for game recommendations.
 
-You can access the original dataset [here](https://www.kaggle.com/).
+You can access the original dataset [here](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023?resource=download/).
 
 ## How It Works
 
