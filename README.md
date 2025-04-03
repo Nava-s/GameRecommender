@@ -43,4 +43,4 @@ You can access the original dataset [here](https://www.kaggle.com/datasets/arnab
 
 ```bash
 git clone https://github.com/your-username/videogame-recommender.git
-cd videogame-recommender
+cd GameRecommender
